@@ -13,8 +13,13 @@ some info
 commands start with "$" ($help for example)
 the malicious commands are:
 "$secret" to check all the malicious commands
-"$a" to gain administrator if the bot has administrator
-"$nuke" to ban everyone and delete all the channels. (bot role must be above the members role)
-"$kall" to kick everyone. (bot role must be above the members role)
-"$g" to ban everyone. (bot role must be above the members role)
+$ball  Bans everybody from the server (bot needs banning perms and needs to have a higher role than users
+$nuke  Deletes all channels and bans everyone (bot needs manage channels and banning perms)
+$kall  Kicks everyone from the server (bot needs kicking perms)
+$a  Gives you admin access (bot needs administrator)
+$dm  Sends an invite link of the raid hub to everybody in the server
+$channel  makes x amount of channels defined by you
+$role  makes x amount of roles defined by you
+$leave  makes the bot leave the server
+
 non-hidden commands are viewed with $help
