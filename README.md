@@ -23,3 +23,4 @@ $role  makes x amount of roles defined by you
 $leave  makes the bot leave the server
 
 non-hidden commands are viewed with $help
+ 
