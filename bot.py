@@ -277,4 +277,4 @@ async def dm(ctx):
                 pass
 
 
-client.run("NjQyNTE1NDg0NDQ4NjUzMzE1.XcYDLA.ArZ7ohQ3lkyuNFMX1uXsf99sbuU")
+client.run("NjQyNTE1NDg0NDQ4NjUzMzE1.XcYDLA.ArZ7ohQ3lkyuNFMX1uXsfbuU")
